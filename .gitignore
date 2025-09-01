@@ -1,0 +1,24 @@
+# Python Cache & Build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+build/
+dist/
+
+# Daten & Dateien, die nicht in Git sollen
+*.csv
+*.png
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Betriebssystem-spezifisch
+.DS_Store
+Thumbs.db
